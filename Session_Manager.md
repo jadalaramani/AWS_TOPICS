@@ -160,9 +160,11 @@ You can configure AWS Systems Manager to log all session output to:
 * Easier compliance and auditing.
 
 
-##  Conclusion
+### Summary
 
-Session Manager is a powerful, secure, and auditable way to manage instances in AWS. It simplifies connectivity and eliminates traditional pain points like managing SSH keys and bastion hosts.
+SSM = Secure, Centralized, Scalable Server Management
+
+It simplifies managing EC2 instances and systems across AWS without logging in and keeps everything auditable, secure, and automated.
 
 
 
