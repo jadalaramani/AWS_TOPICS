@@ -2,6 +2,7 @@
 ##  What is Session Manager in AWS?
 
 Session Manager is a capability of AWS Systems Manager that lets you securely connect to your Amazon EC2 instances and on-premises servers *without needing SSH, bastion hosts, or open inbound ports*.
+SSM (AWS Systems Manager) is to help you manage, automate, and operate your AWS infrastructure securely at scale—without needing to log into servers manually.
 
 
 ##  Why Use Session Manager?
