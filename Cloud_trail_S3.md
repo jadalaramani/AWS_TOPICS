@@ -25,7 +25,7 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 
 
 
-### 📁 Step 2: Create an S3 Bucket
+###  Step 2: Create an S3 Bucket
 
 1. Go to the S3 service.
 2. Click on Create bucket.
@@ -33,7 +33,7 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 4. Uncheck Block all public access (keep it checked for security, only uncheck for testing).
 5. Click Create bucket.
 
-✅ Note: S3 will store CloudTrail logs in a structured format like:
+ Note: S3 will store CloudTrail logs in a structured format like:
 
 ```
 s3://cloudtrail-logs-ramani/AWSLogs/<account-id>/CloudTrail/<region>/<year>/<month>/<day>/...
@@ -41,7 +41,7 @@ s3://cloudtrail-logs-ramani/AWSLogs/<account-id>/CloudTrail/<region>/<year>/<mon
 
 
 
-### 🔐 Step 3: Configure Permissions 
+###  Step 3: Configure Permissions 
 
 Go to the S3 bucket → Permissions tab:
 
