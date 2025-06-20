@@ -98,7 +98,7 @@ Now perform any AWS actions, e.g.:
 Each of these will generate a CloudTrail event.
 
 
-### 📂 Step 6: View Logs in S3
+###  Step 6: View Logs in S3
 
 1. Go to the S3 bucket you used for CloudTrail.
 2. Navigate to:
@@ -128,7 +128,7 @@ Sample event:
 }
 ```
 
-## 🎯 Final Tips:
+##  Final Tips:
 
 * CloudTrail is enabled by default, but it only stores 90 days of event history in the console. Persistent storage requires a trail with an S3 bucket.
 * You can create multiple trails per account for different auditing purposes.
