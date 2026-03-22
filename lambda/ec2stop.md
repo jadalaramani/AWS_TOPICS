@@ -70,7 +70,7 @@ def lambda_handler(event, context):
 
 ---
 
-# ⏰ Step 5: Configure Schedule
+#  Step 5: Configure Schedule
 
 You can choose:
 
@@ -90,7 +90,7 @@ Explanation:
 
 ---
 
-# 🎯 Step 6: Add Target
+#  Step 6: Add Target
 
 1. Target type: **Lambda function**
 2. Select your Lambda
@@ -100,11 +100,7 @@ Explanation:
 
 #  Step 7: Verify
 
-* Wait for scheduled time ⏰
+* Wait for scheduled time 
 * Check EC2 → Instance should stop automatically
 
----
 
-
-If you want next level:
-👉 I can give **Terraform code for this full setup** (interview-ready 🔥)
