@@ -149,15 +149,3 @@ Example:
 ```
 1000 requests per month → Almost FREE
 ```
-
----
-
-# ⭐ Another Real-Time Lambda Use Cases
-
-| Use Case        | Example              |
-| --------------- | -------------------- |
-| File Processing | S3 image resize      |
-| API Backend     | Lambda + API Gateway |
-| Automation      | Start/Stop EC2       |
-| Log Processing  | CloudWatch Logs      |
-| Notifications   | Send email on events |
