@@ -104,3 +104,7 @@ You’ll get a base URL like:
 ```bash
 https://abc123.execute-api.us-east-1.amazonaws.com/dev
 ```
+
+Check get url in browser and
+check post url like curl -X POST https://mrjbo4jckf.execute-api.us-east-1.amazonaws.com/dev/user 
+
